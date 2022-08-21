@@ -1,4 +1,4 @@
-### Group 3: Alex, Angelyn, Christabelle, I-En, Venus, Wei Hao
+
 
 # Environment can be cleared at separation (lines 125, 252, 498, 958) for neatness
 # Section numbers refer to group report
